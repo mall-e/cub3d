@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   utils.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: merkol <merkol@42kocaeli.com.tr>           +#+  +:+       +#+        */
+/*   By: muyazici <muyazici@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/01/09 16:08:01 by merkol            #+#    #+#             */
-/*   Updated: 2023/01/10 17:07:29 by merkol           ###   ########.fr       */
+/*   Created: 2023/10/31 12:36:50 by muyazici          #+#    #+#             */
+/*   Updated: 2023/10/31 12:36:51 by muyazici         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 /**
  * @brief kaynak array hedef in sonuna eklenir ve kaynak serbest bırakılır.
- * 
+ *
  * @param dst kaynak dizinin ekleneceği matris
  * @param src eklenecek dizi
  * @param size_dst hedef çift boyutlu arrayin üye sayısı = dbl_array_size()
